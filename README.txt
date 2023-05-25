@@ -1,7 +1,4 @@
 ==================READ ME===================
-
-Alvarez Loran Juan Pablo
-Palacios Rodriguez Diego Octavio
 Reyes Gonzalez Agustin Oscar
 
 Cryptography Final Project
